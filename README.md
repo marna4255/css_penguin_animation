@@ -27,7 +27,7 @@ This is a fun project that uses CSS to create an animated penguin. The animation
 
 ## Screenshot:
 
-![Penguin Animation](./img/penguin-animation.png) <!-- Replace this with the actual screenshot path -->
+![Penguin Animation](./img/penguin.png) <!-- Replace this with the actual screenshot path -->
 
 ## How to Use:
 
